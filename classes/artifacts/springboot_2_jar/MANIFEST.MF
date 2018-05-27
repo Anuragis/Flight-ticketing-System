@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.sjsu5.FlightTicketingSystemAssignment2.FlightTicketing
+ SystemAssignment2Application
+
